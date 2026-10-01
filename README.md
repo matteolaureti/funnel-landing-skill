@@ -70,12 +70,13 @@ See [evaluation scenarios](docs/evaluation.md) for repeatable behavioral checks.
 
 ## Sources
 
+- [The Only Marketing Strategy You Need to Make $1,000,000](https://www.youtube.com/watch?v=ab6H-9fxlPI), the video behind the supplied transcript that inspired the 4 Cs discussion.
 - [Hook–Story–Offer, ClickFunnels](https://www.clickfunnels.com/blog/hook-story-offer/).
 - [Principles of persuasion, Cialdini](https://www.influenceatwork.com/7-principles-of-persuasion/).
 - [Agent Skills specification](https://agentskills.io/specification).
 - [Skills CLI](https://github.com/vercel-labs/skills).
 
-The 4 Cs, decision model, and page workflow are an original operational synthesis inspired by a user-supplied marketing discussion. The source transcript is not included. References do not imply endorsement or guarantee outcomes.
+This skill combines the 4 Cs with an original operational decision model and page workflow developed from that discussion. The source transcript is not included. References do not imply endorsement or guarantee outcomes.
 
 ## License
 
