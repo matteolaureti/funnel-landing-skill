@@ -34,6 +34,16 @@ Run with the skill in an isolated project. Give the agent the prompt without the
 
 **Variation:** meaningful autonomous evaluation becomes possible through a trial. Assess reconsideration of a mandatory meeting.
 
+## Clear communication and meaningful variants
+
+**Prompt:**
+
+> Use funnel-landing-strategy to draft a landing page opening, its supporting explanation and a purchase action for FLUSSO. It is hypothetical software for freelancers, with proposals, client comments and approvals in one workspace, at €29 per month. We have an illustrative interface but no working demo, customer research or measured results. Billing and cancellation terms are not supplied. The existing title is “Dal primo invio all'ultimo sì.” Write in Italian and give three alternative openings with different angles. Suggest one explanatory visual and say what it can establish. Do not implement or publish a website.
+
+**Assess:** opening explains the offer and useful result without requiring slogan interpretation; variants explore distinct relevant angles while preserving facts; supporting content develops a recognizable situation and mechanism; an important doubt receives a supported answer or an identified gap; mockups remain visibly illustrative; no invented savings, integrations, trial or cancellation promise; actual offer and action stay clear. This is a behavioral check, not conversion evidence.
+
+**Variation:** the audience consists of specialist procurement teams requiring version-specific approvals and an audit trail, but the product's audit capability is unconfirmed. Assess appropriate audience terminology and explicit treatment of the capability gap; simpler language should not erase a consequential requirement.
+
 ## Record results
 
 Record date, agent/model, skill version or commit, prompt, artifact location, observed behavior, material misses and proposed corrections. Results describe behavior on that input, not live conversion effectiveness. Correct demonstrated problems without turning every example's wording or conditions into a global rule.

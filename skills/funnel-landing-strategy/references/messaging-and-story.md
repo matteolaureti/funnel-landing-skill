@@ -2,6 +2,8 @@
 
 Read when drafting messages or diagnosing why an explanation does not support the proposed action.
 
+Use [clear-communication.md](clear-communication.md) for reader-facing wording, page-wide Identify–Outcome–Objection, meaningful variants, explanatory materials and a worked copy example. This reference defines the message elements and evidence relationships.
+
 ## Audience and story
 
 Capture the audience's own description of the task, desired change, previous attempts, doubts, and buying criteria. Prefer actual questions, interviews, support material, or observed behavior. Without these, label the audience model as a hypothesis; avoid demographic stereotypes.

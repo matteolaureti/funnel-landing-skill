@@ -3,7 +3,7 @@ name: funnel-landing-strategy
 description: "Plan conversion funnels, write their landing pages, or review connected campaign journeys using the 4 Cs and Hook–Story–Offer. Use for direct sales, lead magnets, demo bookings, and campaign pages where audience, offer, evidence, and next steps must align."
 license: MIT
 metadata:
-  version: "0.1.0"
+  version: "0.2.0"
 ---
 
 # Funnel Landing Strategy
@@ -24,6 +24,7 @@ Infer the mode from the request; combine modes when useful. Ask only for missing
 
 - For architecture decisions, read [funnel-patterns.md](references/funnel-patterns.md).
 - For hooks, stories, offers, and objections, read [messaging-and-story.md](references/messaging-and-story.md).
+- When writing or revising reader-facing copy, message variants or explanatory material, read [clear-communication.md](references/clear-communication.md).
 - For a project brief or page handoff, read [project-brief.md](references/project-brief.md). Reuse current context rather than requesting it again.
 - For diagnosis, measurement, or a final quality pass, read [review-criteria.md](references/review-criteria.md).
 - For illustrations of product purchases, SaaS purchases, defined-scope services, resources and demos, read [worked-examples.md](references/worked-examples.md). Products and terms in these examples are hypothetical.
@@ -73,6 +74,8 @@ Use **Hook–Story–Offer** flexibly:
 - **Offer:** specify deliverable, audience, scope, terms and commitment, and next action.
 
 A story may be a use case, demonstration, customer experience, or explanation; it need not be a founder narrative. Identify–Outcome–Objection is a working expansion used here, not a fixed order every story must follow.
+
+Use Identify–Outcome–Objection as recurring decision questions across the page. Each return should add understanding, evidence or a condition. Write plainly: the opening should make the offer's relevance understandable; develop curiosity through a concrete mechanism or example. For variants, change the angle while preserving facts and claim strength.
 
 Connect **feature → benefit → outcome → evidence** where useful. Features can explain how the offer works and establish fit. Do not turn a plausible benefit into a guaranteed result.
 

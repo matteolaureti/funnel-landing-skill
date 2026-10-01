@@ -42,3 +42,5 @@ No universal conversion benchmark or email contribution applies. Segment by rele
 - **Commercial experiment:** does a change improve the relevant outcome under comparable conditions? Choose an appropriate sample and duration and state limitations.
 
 Record the change, rationale, main outcome and relevant downstream consequences. Hypothetical walkthroughs are not A/B tests; simulated examples do not prove that a funnel will convert.
+
+For copy and explanatory material, use the editorial and comprehension checks in [clear-communication.md](clear-communication.md). Check whether a clearer rewrite has accidentally strengthened a claim, introduced a capability or removed a material condition.

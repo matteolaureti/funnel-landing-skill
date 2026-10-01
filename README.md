@@ -55,6 +55,7 @@ skills/funnel-landing-strategy/
 └── references/
     ├── funnel-patterns.md
     ├── messaging-and-story.md
+    ├── clear-communication.md
     ├── project-brief.md
     ├── review-criteria.md
     └── worked-examples.md
@@ -64,7 +65,9 @@ References are read as needed. Codex UI metadata is optional for other agents; c
 
 ## Evaluation
 
-Version **0.1.0** includes five hypothetical walkthroughs: a physical product purchase, an autonomous SaaS purchase, a design service with defined scope, a resource leading to a course, and a B2B demo. Each has a changed condition to check adaptation. They support conceptual review, not claims of observed conversion performance.
+Version **0.2.0** includes a dedicated [clear communication resource](skills/funnel-landing-strategy/references/clear-communication.md): recurring Identify–Outcome–Objection across a page, plain wording, message variants, demonstrations, numerical claims and comprehension checks. It includes linked sources and Italian copy examples, and distinguishes source guidance from the skill's operational synthesis.
+
+The five hypothetical walkthroughs cover a physical product purchase, an autonomous SaaS purchase, a design service with defined scope, a resource leading to a course, and a B2B demo. Each has a changed condition to check adaptation. They support conceptual review, not claims of observed conversion performance.
 
 See [evaluation scenarios](docs/evaluation.md) for repeatable behavioral checks. These are instructions, not a claim that independent agent tests have passed. Evaluate audience understanding and commercial results on a real project before making performance claims.
 
