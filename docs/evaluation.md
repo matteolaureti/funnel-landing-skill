@@ -1,49 +1,31 @@
 # Behavioral evaluation scenarios
 
-These are reusable inputs for future agent evaluations, not a record of independent agent tests already executed. The worked examples document conceptual walkthroughs.
+These prompts are inputs for future agent checks of version 0.4.2. Give the agent a prompt and the skill in an isolated project, without the assessment criteria. Keep generated artifacts local.
 
-Run with the skill in an isolated project. Give the agent the prompt without the assessment criteria. Inspect its output afterwards. No publication, paid services or external messages are needed.
-
-## Autonomous product purchase
+## Landing page and saved context
 
 **Prompt:**
 
-> Use funnel-landing-strategy to plan and draft a landing page for a desk organizer with removable compartments. Price is €39. People work at small home desks and arrive from a video showing cables being put away. We have product photos but no supplied dimensions, shipping costs, return terms or reviews. We want online purchases. Reply in English.
+> Use funnel-landing-strategy to create a local English HTML landing page for this hypothetical business: ShiftPlan, software for restaurant managers to record staff availability and plan weekly shifts. Managers currently compare availability messages with a separate schedule. The software shows recorded availability alongside planned shifts. Its monthly plan costs €29. There are no supplied customer results, automatic conflict alerts or integration details. We want visitors to buy the monthly plan. Work only in this project directory and do not publish externally.
 
-**Assess:** recognizable audience; reasoned purchase path; consequential missing information identified; no invented facts, reviews or productivity results; CTA and checkout continuity; English response.
+**Assess:** a reusable Markdown context document records the audience, desired outcomes, experiences to avoid, offer, capabilities and supporting material; Identify describes a recognizable situation; Outcome explains a desired result; Objection includes a scheduling experience or consequence managers want to avoid. Features develop those connections. The 4 Cs develop the content without a mandatory section count.
 
-**Variation:** the product is custom-made and requires a quotation. Assess adaptation to the evaluation need.
-
-## Resource leading to a course
+## Reuse for another format
 
 **Prompt:**
 
-> Use funnel-landing-strategy to plan a funnel for freelancers reviewing quotations. The complete free checklist covers scope, revisions, timing and conditions. The paid offer is an €89 course with proposal examples and editable models. Entry is educational posts. We have no sales data or testimonials. Define pages, draft the resource hero and suggest measurements.
+> Use funnel-landing-strategy and the project's existing funnel-context.md to write an English social post for the same product. The intended action is to visit its landing page. Save the draft locally.
 
-**Assess:** independently useful resource; credible relationship to course; request distinguished from purchase; delivery specified; no income guarantees; downstream measurements; no arbitrary email count.
+**Assess:** the existing context is reused; the story and action fit the new format; the output does not default to a four-block page or an unrelated commercial pattern.
 
-**Variation:** a visitor searches specifically for the course. Assess direct access to the paid offer.
-
-## Contextual software evaluation
+## Update the context
 
 **Prompt:**
 
-> Use funnel-landing-strategy to plan demo booking for software managing bookings, calendars and confirmations in multi-location training centers. Operational managers need to verify fit. These functions can be demonstrated; imports and integrations are not confirmed. Offer a free 25-minute product demo. Define landing, booking, confirmation and final outcome.
+> Use funnel-landing-strategy to revise this project's context and landing-page copy. We have confirmed that managers enter staff availability themselves; staff do not have accounts. Keep the rest of the supplied product facts and terms.
 
-**Assess:** reasoned demo path; distinction from consultancy; no invented integrations or results; agenda, field rationale and confirmed slot; bookings, attendance, qualification and paid activation distinguished.
-
-**Variation:** meaningful autonomous evaluation becomes possible through a trial. Assess reconsideration of a mandatory meeting.
-
-## Clear communication and meaningful variants
-
-**Prompt:**
-
-> Use funnel-landing-strategy to draft a landing page opening, its supporting explanation and a purchase action for FLUSSO. It is hypothetical software for freelancers, with proposals, client comments and approvals in one workspace, at €29 per month. We have an illustrative interface but no working demo, customer research or measured results. Billing and cancellation terms are not supplied. The existing title is “From the first send to the final yes.” Write in English and give three alternative openings with different angles. Suggest one explanatory visual and say what it can establish. Do not implement or publish a website.
-
-**Assess:** opening explains the offer and useful result without requiring slogan interpretation; variants explore distinct relevant angles while preserving facts; supporting content develops a recognizable situation and mechanism; an important doubt receives a supported answer or an identified gap; mockups remain visibly illustrative; no invented savings, integrations, trial or cancellation promise; actual offer and action stay clear. This is a behavioral check, not conversion evidence.
-
-**Variation:** the audience consists of specialist procurement teams requiring version-specific approvals and an audit trail, but the product's audit capability is unconfirmed. Assess appropriate audience terminology and explicit treatment of the capability gap; simpler language should not erase a consequential requirement.
+**Assess:** the context records the updated process; the copy reflects how managers enter availability and uses that context to develop the Story.
 
 ## Record results
 
-Record date, agent/model, skill version or commit, prompt, artifact location, observed behavior, material misses and proposed corrections. Results describe behavior on that input, not live conversion effectiveness. Correct demonstrated problems without turning every example's wording or conditions into a global rule.
+Record the skill version, model, prompt, generated context and content, observed strengths and misses. Separate structural checks, model behavior, actual audience understanding and commercial performance.

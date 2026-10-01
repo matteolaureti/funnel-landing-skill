@@ -1,6 +1,6 @@
 # Funnel Landing Skill
 
-An agent skill for planning conversion funnels, writing landing pages, and reviewing connected campaign journeys. It combines the **4 Cs**—Captivate, Curiosity, Convince, Convert—with **Hook–Story–Offer** and a practical model for audience, outcomes, objections, mechanisms, evidence, and next actions.
+Create landing pages and campaign content using the **4 Cs**—Captivate, Curiosity, Convince, Convert. Ground the customer's **Story** in project context: **Identify** who they are, the **Outcome** they want, and the **Objection**—an experience or consequence they want to avoid while pursuing that outcome.
 
 ## Install
 
@@ -28,23 +28,21 @@ Skills.sh lists skills through installation telemetry; a compatible GitHub repos
 
 Invoke `$funnel-landing-strategy` in Codex, or use your agent's invocation mechanism. The skill follows the user's language.
 
-> Use $funnel-landing-strategy to plan a direct-sale funnel for this product. Explain the path, evidence each page needs, and what happens after purchase.
+> Use $funnel-landing-strategy to create a landing page for this product. Build the funnel context from the supplied information and write in English.
 
-> Use $funnel-landing-strategy to write a landing page for this free resource and explain how it connects to our paid offer. Separate confirmed facts from assumptions.
+> Use $funnel-landing-strategy to write social content for this campaign using our existing funnel-context.md. Write in English.
 
-> Use $funnel-landing-strategy to review our demo-booking journey. Identify gaps in promise, evidence, booking, and follow-up; prioritize changes.
+> Use $funnel-landing-strategy to review this landing page against our funnel context. Explain where its message or progression needs work.
 
-You can ask in Italian or another language supported by the agent. Supply existing offer, audience, entry messages, evidence, terms, pages, or data when available. The skill asks for consequential missing information rather than a mandatory questionnaire.
+You can ask in Italian or another language supported by the agent. Supply existing offer, audience, entry messages, supporting material, terms, pages, or data when available.
 
-## Working modes
+## Scope
 
-- **Plan:** brief, reasoned path, central message, page specifications, evidence gaps, and measurement hypotheses.
-- **Write:** requested structure and copy using a defined strategy.
-- **Review:** concrete findings, implications, and prioritized changes within available evidence.
+The method applies to landing pages, social posts, ads, videos, emails and connected campaigns. Ask for the content, plan, review or implementation you need.
 
-The 4 Cs describe journey functions; they do not require four pages or sections. The skill distinguishes local conversions from final business outcomes and chooses intermediate steps according to the uncertainty they resolve.
+The 4 Cs describe a progression, not four compulsory sections. A function can continue across several passages, and one passage can serve several functions. Format, length, commercial action and page structure come from the project rather than a catalogue of funnel patterns.
 
-The scope is strategy, messaging, and page handoff. Coding, analytics setup, campaign execution, and publication depend on the user's request and available tools. No particular framework, connector, or runtime is required to use the skill.
+Implementation and publication depend on the user's request and available tools. No particular framework, connector, or runtime is required.
 
 ## Contents
 
@@ -53,33 +51,32 @@ skills/funnel-landing-strategy/
 ├── SKILL.md
 ├── agents/openai.yaml
 └── references/
-    ├── funnel-patterns.md
-    ├── messaging-and-story.md
-    ├── clear-communication.md
-    ├── project-brief.md
-    ├── review-criteria.md
-    └── worked-examples.md
+    ├── funnel-context.md
+    └── messaging-and-story.md
 ```
 
 References are read as needed. Codex UI metadata is optional for other agents; core instructions are portable Markdown with YAML frontmatter.
 
+| Reference | Purpose |
+|---|---|
+| [Funnel context](skills/funnel-landing-strategy/references/funnel-context.md) | Create and maintain a project Markdown document with audience, desired outcomes, experiences to avoid, offer, capabilities and supporting material. |
+| [Messaging and story](skills/funnel-landing-strategy/references/messaging-and-story.md) | Connect those elements throughout the 4 Cs, using features, demonstrations and customer experiences to develop the customer's Story. |
+
 ## Evaluation
 
-Version **0.2.0** includes a dedicated [clear communication resource](skills/funnel-landing-strategy/references/clear-communication.md): recurring Identify–Outcome–Objection across a page, plain wording, message variants, demonstrations, numerical claims and comprehension checks. It includes linked sources and English copy examples, and distinguishes source guidance from the skill's operational synthesis.
+Version **0.4.2** explains the funnel, the Story and their project context as distinct parts of the method. Its two references cover reusable project-context documentation and the customer's Story, without a funnel-pattern catalogue or separate communication and review guides.
 
-The five hypothetical walkthroughs cover a physical product purchase, an autonomous SaaS purchase, a design service with defined scope, a resource leading to a course, and a B2B demo. Each has a changed condition to check adaptation. They support conceptual review, not claims of observed conversion performance.
-
-See [evaluation scenarios](docs/evaluation.md) for repeatable behavioral checks. These are instructions, not a claim that independent agent tests have passed. Evaluate audience understanding and commercial results on a real project before making performance claims.
+See [evaluation scenarios](docs/evaluation.md) for repeatable behavioral checks.
 
 ## Sources
 
 - [The Only Marketing Strategy You Need to Make $1,000,000](https://www.youtube.com/watch?v=ab6H-9fxlPI), the video behind the supplied transcript that inspired the 4 Cs discussion.
-- [Hook–Story–Offer, ClickFunnels](https://www.clickfunnels.com/blog/hook-story-offer/).
-- [Principles of persuasion, Cialdini](https://www.influenceatwork.com/7-principles-of-persuasion/).
+- [What is a marketing funnel?, Whop](https://whop.com/blog/what-is-a-marketing-funnel/).
+- [Rethinking skills and prompts for GPT-6 Astra, OpenAI](https://developers.openai.com/blog/rethinking-skills-and-prompts-for-gpt-6-astra), informing the compact entrypoint and selective references.
 - [Agent Skills specification](https://agentskills.io/specification).
 - [Skills CLI](https://github.com/vercel-labs/skills).
 
-This skill combines the 4 Cs with an original operational decision model and page workflow developed from that discussion. The source transcript is not included. References do not imply endorsement or guarantee outcomes.
+This skill's application throughout content and its reusable project context are an operational interpretation of the cited guidance. The source transcript is not included.
 
 ## License
 
