@@ -64,7 +64,7 @@ References are read as needed. Codex UI metadata is optional for other agents; c
 
 ## Evaluation
 
-Version **0.1.0** includes hypothetical walkthroughs for direct purchase, a resource leading to a course, and a B2B demo. Each has a changed condition to check adaptation. They support conceptual review, not claims of observed conversion performance.
+Version **0.1.0** includes five hypothetical walkthroughs: a physical product purchase, an autonomous SaaS purchase, a design service with defined scope, a resource leading to a course, and a B2B demo. Each has a changed condition to check adaptation. They support conceptual review, not claims of observed conversion performance.
 
 See [evaluation scenarios](docs/evaluation.md) for repeatable behavioral checks. These are instructions, not a claim that independent agent tests have passed. Evaluate audience understanding and commercial results on a real project before making performance claims.
 

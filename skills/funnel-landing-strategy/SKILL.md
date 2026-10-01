@@ -26,7 +26,7 @@ Infer the mode from the request; combine modes when useful. Ask only for missing
 - For hooks, stories, offers, and objections, read [messaging-and-story.md](references/messaging-and-story.md).
 - For a project brief or page handoff, read [project-brief.md](references/project-brief.md). Reuse current context rather than requesting it again.
 - For diagnosis, measurement, or a final quality pass, read [review-criteria.md](references/review-criteria.md).
-- For illustrations of the three original cases, read [worked-examples.md](references/worked-examples.md). Products and terms in these examples are hypothetical.
+- For illustrations of product purchases, SaaS purchases, defined-scope services, resources and demos, read [worked-examples.md](references/worked-examples.md). Products and terms in these examples are hypothetical.
 
 ## Establish the decision context
 
