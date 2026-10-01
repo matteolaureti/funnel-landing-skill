@@ -26,9 +26,9 @@ List the results or experiences these people want, why they matter and what a us
 
 ### Objection: what they want to avoid
 
-List unwanted experiences, consequences or tradeoffs while pursuing those outcomes: discomfort, wasted work, disruption, complexity, loss of control or another relevant downside. Connect each concern to the audience's situation and the desired outcome.
+Look at how these people pursue the desired outcomes today, before introducing the proposed product. List the unwanted experiences, consequences, costs or effort in that process: discomfort, repeated manual work, missing information, delays or another relevant downside. Record the situation that causes each concern and how it affects the person.
 
-If people also express a buying hesitation, retain it in context. Avoid reducing this topic to doubts about the seller or to a generic FAQ.
+Record questions about buying or adopting the proposed product separately, such as learning the software or migrating data. They can inform the content alongside the Story's Objection, which comes from the person's current process.
 
 ### Supporting material
 

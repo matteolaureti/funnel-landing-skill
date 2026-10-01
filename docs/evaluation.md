@@ -1,6 +1,6 @@
 # Behavioral evaluation scenarios
 
-These prompts are inputs for future agent checks of version 0.4.2. Give the agent a prompt and the skill in an isolated project, without the assessment criteria. Keep generated artifacts local.
+These prompts are inputs for future agent checks of version 0.4.3. Give the agent a prompt and the skill in an isolated project, without the assessment criteria. Keep generated artifacts local.
 
 ## Landing page and saved context
 
@@ -8,7 +8,7 @@ These prompts are inputs for future agent checks of version 0.4.2. Give the agen
 
 > Use funnel-landing-strategy to create a local English HTML landing page for this hypothetical business: ShiftPlan, software for restaurant managers to record staff availability and plan weekly shifts. Managers currently compare availability messages with a separate schedule. The software shows recorded availability alongside planned shifts. Its monthly plan costs €29. There are no supplied customer results, automatic conflict alerts or integration details. We want visitors to buy the monthly plan. Work only in this project directory and do not publish externally.
 
-**Assess:** a reusable Markdown context document records the audience, desired outcomes, experiences to avoid, offer, capabilities and supporting material; Identify describes a recognizable situation; Outcome explains a desired result; Objection includes a scheduling experience or consequence managers want to avoid. Features develop those connections. The 4 Cs develop the content without a mandatory section count.
+**Assess:** a reusable Markdown context document records the audience, desired outcomes, experiences to avoid, offer, capabilities and supporting material; Identify describes a recognizable situation; Outcome explains a desired result; Objection comes from the managers' current scheduling process, such as last-minute calls after availability was missed in messages. Questions about adopting the software are recorded separately. Features develop those connections. The 4 Cs develop the content without a mandatory section count.
 
 ## Reuse for another format
 

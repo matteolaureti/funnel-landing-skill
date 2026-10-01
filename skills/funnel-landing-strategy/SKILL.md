@@ -3,7 +3,7 @@ name: funnel-landing-strategy
 description: "Build landing pages and campaign content as funnels using the 4 Cs and an Identify–Outcome–Objection story."
 license: MIT
 metadata:
-  version: "0.4.2"
+  version: "0.4.3"
 ---
 
 # Funnel Landing Strategy
@@ -29,9 +29,9 @@ Communicate through three connected questions:
 
 - **Identify:** Who is this for? Describe the person, what they are trying to do, their problems and their current approach so they can recognize themselves.
 - **Outcome:** What do they want to achieve or experience? Make the desired change concrete.
-- **Objection:** What do they want to avoid while pursuing that outcome? Address the unwanted experiences, costs, effort or tradeoffs that matter to them.
+- **Objection:** What do they want to avoid in their current way of pursuing that outcome? Start with the unwanted experiences, consequences, costs or effort they encounter before introducing the product.
 
-In a shoe shop example, these are track athletes, faster running, and avoiding blisters.
+In a shoe shop example, these are track athletes, faster running, and avoiding blisters. These motivations already exist before choosing the shoes. Introduce the offer as a response to the result they want and the downside they want to avoid.
 
 Use these throughout the funnel, wherever they make the message relevant. Features explain how the desired result or avoided downside becomes possible; they should support the story rather than become the whole pitch. Read [messaging-and-story.md](references/messaging-and-story.md) when developing that connection.
 

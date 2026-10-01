@@ -1,6 +1,6 @@
 # Funnel Landing Skill
 
-Create landing pages and campaign content using the **4 Cs**—Captivate, Curiosity, Convince, Convert. Ground the customer's **Story** in project context: **Identify** who they are, the **Outcome** they want, and the **Objection**—an experience or consequence they want to avoid while pursuing that outcome.
+Create landing pages and campaign content using the **4 Cs**—Captivate, Curiosity, Convince, Convert. Ground the customer's **Story** in project context: **Identify** who they are, the **Outcome** they want, and the **Objection**—an experience or consequence they want to avoid in their current way of pursuing that outcome, before introducing the product.
 
 ## Install
 
@@ -64,7 +64,7 @@ References are read as needed. Codex UI metadata is optional for other agents; c
 
 ## Evaluation
 
-Version **0.4.2** explains the funnel, the Story and their project context as distinct parts of the method. Its two references cover reusable project-context documentation and the customer's Story, without a funnel-pattern catalogue or separate communication and review guides.
+Version **0.4.3** explains the funnel, the Story and their project context as distinct parts of the method. Its two references cover reusable project-context documentation and the customer's Story, without a funnel-pattern catalogue or separate communication and review guides.
 
 See [evaluation scenarios](docs/evaluation.md) for repeatable behavioral checks.
 

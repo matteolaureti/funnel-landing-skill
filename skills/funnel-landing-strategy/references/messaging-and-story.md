@@ -4,13 +4,13 @@ Use the funnel context to choose a relevant combination of **Identify, Outcome a
 
 ## Connect the three elements
 
-Identify through a recognizable situation and approach, not only a demographic label. Select outcomes that matter to those people. Pair each outcome with something they want to avoid while pursuing it.
+Identify through a recognizable situation and current approach, not only a demographic label. Select outcomes that matter to those people. Pair each outcome with something they want to avoid in their current way of pursuing it. Establish these motivations before introducing the proposed product.
 
 This can create an emotional reason to care: the appeal of desired possibilities and the relief of avoiding relevant downsides.
 
-For this skill, **Objection** includes the unwanted consequence or tradeoff. It is not limited to “Can I trust this company?” A buyer can believe a result is possible and still reject it because of the experience or cost of obtaining it.
+For this skill, **Objection** is the unwanted experience, consequence or tradeoff in the person's current process. For example, a restaurant manager wants every shift covered and wants to avoid last-minute calls to replace staff whose availability was missed in message threads. The product enters the story as a way to achieve the result and avoid that existing downside.
 
-A shoe shop example illustrates that relationship: the athlete wants better running performance while avoiding blisters. Technology and materials matter when they explain those benefits.
+A shoe shop example illustrates the same relationship: the athlete wants better running performance and wants to avoid blisters from running. Those motivations exist before choosing the shoes. Technology and materials matter when they explain those benefits.
 
 ## Develop the message through the 4 Cs
 
