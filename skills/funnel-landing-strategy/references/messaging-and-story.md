@@ -1,29 +1,31 @@
-# Developing the customer's Story
+# Decide what to say
 
-Use the funnel context to choose a relevant combination of **Identify, Outcome and Objection**. The Story is the substance of the message, not necessarily a literal narrative.
+Use the project context to choose who you are talking to, what they want and what they want to avoid. These are **Identify, Outcome and Objection**. They give you subjects to talk about throughout the funnel. Choose which point to develop in each passage.
 
-## Connect the three elements
+## Connect the customer, the goal and the problem
 
-Identify through a recognizable situation and current approach, not only a demographic label. Select outcomes that matter to those people. Pair each outcome with something they want to avoid in their current way of pursuing it. Establish these motivations before introducing the proposed product.
+Describe a situation the person knows. Choose a result that matters to them, and something they want to avoid while trying to reach it today. Understand these before bringing in the product.
 
-This can create an emotional reason to care: the appeal of desired possibilities and the relief of avoiding relevant downsides.
+For example, an independent tutor wants to teach more students and earn more. They also want their evenings back because they spend them arranging lessons by text. These give you two subjects: more income is an Outcome; avoiding evenings spent arranging lessons is an Objection. Booking software can help with those goals.
 
-For this skill, **Objection** is the unwanted experience, consequence or tradeoff in the person's current process. For example, a restaurant manager wants every shift covered and wants to avoid last-minute calls to replace staff whose availability was missed in message threads. The product enters the story as a way to achieve the result and avoid that existing downside.
+In this skill, **Objection** means that existing problem or unpleasant experience. For the tutor, it is the time spent arranging lessons. For an athlete, it might be blisters from running. These problems exist before either person considers the offer.
 
-A shoe shop example illustrates the same relationship: the athlete wants better running performance and wants to avoid blisters from running. Those motivations exist before choosing the shoes. Technology and materials matter when they explain those benefits.
+Show why the result matters. More students can mean more income for the tutor. Less time arranging lessons can mean an evening with their family. Choose the reason that matters to the person described in the project context.
 
-## Develop the message through the 4 Cs
+## Choose the point for each passage
 
-The Story supplies reasons to pay attention, become interested, believe and act. It can recur with different contributions: recognition of a situation, a fuller picture of the result, an explanation of how it happens, a demonstration, or practical terms.
+Identify keeps you talking to the right person. Choose an Outcome or Objection that matters to them and fits what that passage should do. One sentence can describe a result; a question can bring up a problem; a demonstration can explain how the product helps.
 
-A passage can develop several functions. A relevant demonstration may stimulate curiosity and build trust; explaining an avoided downside may attract attention and make the result more appealing. Choose connections that fit the content rather than assigning a separate block to each element.
+You can combine points when they belong together. You can also give a point more space across several passages. The Story guides what you talk about, rather than giving every sentence the same structure.
 
-Each substantive return should add something useful. Repeating the same outcome or avoidance claim does not develop the Story.
+When you return to a goal or problem, add something: an example, an explanation, a demonstration or a customer experience.
 
-## Give the possibility a credible basis
+Read [four-cs.md](four-cs.md) to see how these choices can get attention, spark interest, build trust and encourage action.
 
-Choose features and mechanisms because they explain the customer's result or the avoided downside. Include specifications when they matter to this person. A process description alone may still leave its value unclear.
+## Explain how the offer helps
 
-A demonstration can show how the product works, a sample can show an output, and a customer case can make the result tangible. Useful free value, expertise or social proof can also build trust.
+Use features to explain how the customer gets the result or avoids the problem. Show what happens: a person using the product, an output they receive or a customer's experience. Useful advice, expertise and customer results can also help build trust.
 
-End or connect to the appropriate next action. Make the offer, what the person receives and what they commit to understandable. Select the action from the project's goal, not from a prescribed funnel pattern.
+Details such as specifications and pricing help the reader decide. Include them where they answer a question the reader has.
+
+Choose the next action from the project's goal. Explain what the person will get and what taking that step involves.

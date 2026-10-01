@@ -52,7 +52,9 @@ skills/funnel-landing-strategy/
 ├── agents/openai.yaml
 └── references/
     ├── funnel-context.md
-    └── messaging-and-story.md
+    ├── messaging-and-story.md
+    ├── direct-communication.md
+    └── four-cs.md
 ```
 
 References are read as needed. Codex UI metadata is optional for other agents; core instructions are portable Markdown with YAML frontmatter.
@@ -61,10 +63,12 @@ References are read as needed. Codex UI metadata is optional for other agents; c
 |---|---|
 | [Funnel context](skills/funnel-landing-strategy/references/funnel-context.md) | Create and maintain a project Markdown document with audience, desired outcomes, experiences to avoid, offer, capabilities and supporting material. |
 | [Messaging and story](skills/funnel-landing-strategy/references/messaging-and-story.md) | Connect those elements throughout the 4 Cs, using features, demonstrations and customer experiences to develop the customer's Story. |
+| [Direct communication](skills/funnel-landing-strategy/references/direct-communication.md) | Express a chosen Outcome or Objection for the audience with common words, clear explanations, numbers and everyday situations. |
+| [The 4 Cs](skills/funnel-landing-strategy/references/four-cs.md) | Explain each purpose with examples and show how to use context, Story and direct communication to build a funnel. |
 
 ## Evaluation
 
-Version **0.4.3** explains the funnel, the Story and their project context as distinct parts of the method. Its two references cover reusable project-context documentation and the customer's Story, without a funnel-pattern catalogue or separate communication and review guides.
+Version **0.6.0** explains the funnel, the Story and their project context as distinct parts of the method. Its four references cover project context, choosing the message, writing it clearly and using it through the 4 Cs. Examples show separate Outcome and Objection messages, without a fixed sentence formula or page layout.
 
 See [evaluation scenarios](docs/evaluation.md) for repeatable behavioral checks.
 
