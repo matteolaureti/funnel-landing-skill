@@ -50,12 +50,12 @@ This page-wide application is this skill's operational synthesis of the supplied
 
 Use the audience's language. Prefer concrete actions and familiar words; explain necessary unfamiliar terms. Clear language also matters for specialists. GOV.UK's guidance supports familiar vocabulary and active constructions, while allowing useful specialist terminology and exceptions. Its government-specific rules are not requirements for a commercial page. [GOV.UK: clear language](https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/writing-guidelines/clear-language/).
 
-- Name the object and action: “raccogli i commenti sulla proposta” communicates more than “semplifica il tuo flusso.”
+- Name the object and action: “collect comments on the proposal” communicates more than “simplify your flow.”
 - Make the actor apparent when it matters: distinguish what the customer does, what the software does and what the service provider delivers.
-- Replace abstract claims with the supported operation. “Ottimizza la collaborazione” might become “raccogli i commenti del cliente sulla stessa proposta,” if that is what the product does.
+- Replace abstract claims with the supported operation. “Optimize collaboration” might become “collect client comments on the same proposal,” if that is what the product does.
 - Keep conditions close to the promise. First proposal timing and final delivery timing are different; forecasted cash and actual available cash are different.
 - Divide overloaded sentences when this clarifies the decision. Do not enforce a universal word count or remove useful terms to obtain a readability score.
-- Preserve necessary limits. Prefer a positive, supported statement to a sweeping promise such as “mai più problemi,” but use direct exclusions when they establish fit.
+- Preserve necessary limits. Prefer a positive, supported statement to a sweeping promise such as “never have problems again,” but use direct exclusions when they establish fit.
 - Keep the same name for the same object. Avoid cycling through “proposal,” “project” and “document” for stylistic variety if they mean different things in the product.
 
 Write as a knowledgeable person explaining the offer to its intended reader. Directness can be warm, confident or restrained. Choose tone from brand and context; a pricing explanation may need more precision than an introductory sentence. Mailchimp distinguishes a relatively stable voice from a tone that adapts to the reader's situation, and prioritizes clarity over entertainment. Borrow that distinction, not Mailchimp's particular humor or personality. [Mailchimp: voice and tone](https://styleguide.mailchimp.com/voice-and-tone/).
@@ -66,16 +66,16 @@ Use metaphors, wit or an evocative brand line when the reader can still understa
 
 Keep the audience, product behavior, claim strength and commercial terms constant. Change the route into the message. Use whichever angles the task needs; do not generate every type automatically.
 
-These Italian examples assume the same hypothetical SaaS: proposals, client comments and approvals in a workspace for freelancers. None implies measured time savings or increased sales.
+These English examples assume the same hypothetical SaaS: proposals, client comments and approvals in a workspace for freelancers. None implies measured time savings or increased sales.
 
 | Angle | Example opening | Useful when |
 |---|---|---|
-| Task | “Raccogli i commenti dei clienti sulle tue proposte.” | Visitors already recognize the task. |
-| Result | “Ritrova la proposta approvata e i commenti del cliente.” | The end state matters most. |
-| Situation | “Commenti in chat, proposte nelle email? Riuniscili nello stesso spazio.” | Scattered information is a supported audience concern. |
-| Audience and offer | “Uno spazio per freelance: proposte, commenti e approvazioni dei clienti.” | Visitors need to identify the product category and its audience. |
-| Demonstration | “Guarda come una proposta passa dai commenti all'approvazione.” | A relevant demonstration is available. |
-| Objection | “Come riconosci la versione approvata dal cliente?” | The next content supplies the specific answer; supporting copy identifies the software. |
+| Task | “Collect client comments on your proposals.” | Visitors already recognize the task. |
+| Result | “Find the approved proposal and your client's comments.” | The end state matters most. |
+| Situation | “Comments in chat, proposals in email? Bring them into one workspace.” | Scattered information is a supported audience concern. |
+| Audience and offer | “A workspace for freelancers: proposals, client comments and approvals.” | Visitors need to identify the product category and its audience. |
+| Demonstration | “See how a proposal moves from comments to approval.” | A relevant demonstration is available. |
+| Objection | “Which version did your client approve?” | The next content supplies the specific answer; supporting copy identifies the software. |
 
 An evidence-led opening is another option when relevant documented evidence exists. Name the observed result and context; do not insert a percentage to make a weak premise look specific. Objection-led wording is useful only when the concern matters to this audience and the offer can answer it.
 
@@ -89,33 +89,33 @@ All product behavior, price and examples below are hypothetical, consistent with
 
 **Opening**
 
-> Raccogli i commenti dei clienti e ritrova la proposta approvata.
+> Collect client comments and find the approved proposal.
 >
-> FLUSSO è uno spazio di lavoro per freelance: proposte, commenti e approvazioni restano insieme.
+> FLUSSO is a workspace for freelancers that keeps proposals, client comments and approvals together.
 
 The title gives a task and useful result; the supporting line identifies offer and audience.
 
 **Situation and mechanism**
 
-> Il cliente commenta in chat, tu aggiorni la proposta e una nuova versione finisce nelle email. Quando riprendi il lavoro, devi ricostruire i passaggi.
+> Your client comments in chat, you update the proposal, and the new version ends up in email. When you return to the project, you have to piece together what happened.
 >
-> Con FLUSSO, raccogli proposta, commenti e approvazione nello stesso spazio di lavoro.
+> With FLUSSO, keep the proposal, comments and approval in the same workspace.
 
 The situation is a planning hypothesis to check against the intended audience. The mechanism names only the assumed behavior; it does not promise automatic import from chat or email.
 
 **Demonstration and objection**
 
-> Quale proposta ha approvato il cliente?
+> Which proposal did your client approve?
 >
-> Guarda un esempio: la proposta iniziale, i commenti ricevuti e la versione approvata.
+> See an example: the initial proposal, the client's comments and the approved version.
 
 Pair with the relevant demonstration. If only an illustrative mockup exists, label it as such; if version association is not implemented, mark that gap in the draft rather than presenting it as a confirmed function.
 
 **Offer and action**
 
-> Il piano mensile costa 29 €.
+> The monthly plan costs €29.
 >
-> Acquista il piano mensile.
+> Buy the monthly plan.
 
 Before publication, supply the verified included scope, billing conditions, cancellation terms and access process. The price is hypothetical; a button label is appropriate only if its destination actually begins that purchase. Do not invent a trial or a cancellation promise to make the action more attractive.
 
@@ -123,9 +123,9 @@ Other concise rewrites from hypothetical drafts:
 
 | Interpretive line | Concrete alternative |
 |---|---|
-| “Il design trova spazio. Il tuo team continua.” | “Un designer per i social e le presentazioni del tuo team.” Add the monthly service and capacity in supporting copy. |
-| “Dai una rotta al tuo prossimo mese.” | “Vedi gli incassi e le spese previsti per il prossimo mese.” Explain the forecast's inputs and limits. |
-| “La creatività senza confini.” | “Grafiche social e presentazioni, con una richiesta attiva alla volta.” Use actual included work and capacity. |
+| “Make room for design. Keep your team moving.” | “A designer for your team's social graphics and presentations.” Add the monthly service and capacity in supporting copy. |
+| “Set a course for next month.” | “See your expected income and expenses for next month.” Explain the forecast's inputs and limits. |
+| “Creativity without limits.” | “Social graphics and presentations, with one active request at a time.” Use actual included work and capacity. |
 
 ## Communicate through demonstrations and outputs
 
@@ -159,7 +159,7 @@ Different numbers do different work:
 
 For percentages, clarify what changed, compared with what, and over which period. For rate changes, distinguish percentage points from relative change. Explain material qualifications alongside the number. Use [review-criteria.md](review-criteria.md) for counting and commercial measurement.
 
-Without result evidence, communicate a concrete output or demonstrable capability instead. Replace “riduci i tempi del 40%” with a truthful explanation of the operation if the reduction has not been measured. Evidence specificity can also come from a readable sample, dimensions or an actual process; numerical decoration is not necessary.
+Without result evidence, communicate a concrete output or demonstrable capability instead. Replace “cut processing time by 40%” with a truthful explanation of the operation if the reduction has not been measured. Evidence specificity can also come from a readable sample, dimensions or an actual process; numerical decoration is not necessary.
 
 ## Review understanding and progression
 

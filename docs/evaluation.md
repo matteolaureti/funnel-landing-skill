@@ -8,9 +8,9 @@ Run with the skill in an isolated project. Give the agent the prompt without the
 
 **Prompt:**
 
-> Use funnel-landing-strategy to plan and draft a landing page for a desk organizer with removable compartments. Price is €39. People work at small home desks and arrive from a video showing cables being put away. We have product photos but no supplied dimensions, shipping costs, return terms or reviews. We want online purchases. Reply in Italian.
+> Use funnel-landing-strategy to plan and draft a landing page for a desk organizer with removable compartments. Price is €39. People work at small home desks and arrive from a video showing cables being put away. We have product photos but no supplied dimensions, shipping costs, return terms or reviews. We want online purchases. Reply in English.
 
-**Assess:** recognizable audience; reasoned purchase path; consequential missing information identified; no invented facts, reviews or productivity results; CTA and checkout continuity; Italian response.
+**Assess:** recognizable audience; reasoned purchase path; consequential missing information identified; no invented facts, reviews or productivity results; CTA and checkout continuity; English response.
 
 **Variation:** the product is custom-made and requires a quotation. Assess adaptation to the evaluation need.
 
@@ -38,7 +38,7 @@ Run with the skill in an isolated project. Give the agent the prompt without the
 
 **Prompt:**
 
-> Use funnel-landing-strategy to draft a landing page opening, its supporting explanation and a purchase action for FLUSSO. It is hypothetical software for freelancers, with proposals, client comments and approvals in one workspace, at €29 per month. We have an illustrative interface but no working demo, customer research or measured results. Billing and cancellation terms are not supplied. The existing title is “Dal primo invio all'ultimo sì.” Write in Italian and give three alternative openings with different angles. Suggest one explanatory visual and say what it can establish. Do not implement or publish a website.
+> Use funnel-landing-strategy to draft a landing page opening, its supporting explanation and a purchase action for FLUSSO. It is hypothetical software for freelancers, with proposals, client comments and approvals in one workspace, at €29 per month. We have an illustrative interface but no working demo, customer research or measured results. Billing and cancellation terms are not supplied. The existing title is “From the first send to the final yes.” Write in English and give three alternative openings with different angles. Suggest one explanatory visual and say what it can establish. Do not implement or publish a website.
 
 **Assess:** opening explains the offer and useful result without requiring slogan interpretation; variants explore distinct relevant angles while preserving facts; supporting content develops a recognizable situation and mechanism; an important doubt receives a supported answer or an identified gap; mockups remain visibly illustrative; no invented savings, integrations, trial or cancellation promise; actual offer and action stay clear. This is a behavioral check, not conversion evidence.
 

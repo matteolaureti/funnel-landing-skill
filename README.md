@@ -65,7 +65,7 @@ References are read as needed. Codex UI metadata is optional for other agents; c
 
 ## Evaluation
 
-Version **0.2.0** includes a dedicated [clear communication resource](skills/funnel-landing-strategy/references/clear-communication.md): recurring Identify–Outcome–Objection across a page, plain wording, message variants, demonstrations, numerical claims and comprehension checks. It includes linked sources and Italian copy examples, and distinguishes source guidance from the skill's operational synthesis.
+Version **0.2.0** includes a dedicated [clear communication resource](skills/funnel-landing-strategy/references/clear-communication.md): recurring Identify–Outcome–Objection across a page, plain wording, message variants, demonstrations, numerical claims and comprehension checks. It includes linked sources and English copy examples, and distinguishes source guidance from the skill's operational synthesis.
 
 The five hypothetical walkthroughs cover a physical product purchase, an autonomous SaaS purchase, a design service with defined scope, a resource leading to a course, and a B2B demo. Each has a changed condition to check adaptation. They support conceptual review, not claims of observed conversion performance.
 
